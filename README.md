@@ -1,7 +1,28 @@
 ### Hi there 👋
 
 ---
+### Who am I?
+- 대학생 1인 개발자
+- 한국폴리텍대학 인공지능소프트웨어과 (2023. 3. 2025.02)
+- 고용노동부 주관 미래내일일경험 프로젝트 팀장
+- 한이음 ICT 멘토링 팀장
 
+### Certificate
+- 정보기술자격(ITQ) 인터넷 A등급 한국생산성본부
+- 정보기술자격(ITQ) 한글엑세스 A등급 한국생산성본부
+- 정보기술자격(ITQ) 한글파워포인트(한쇼) A등급 한국생산성본부
+- GTQ(그래픽기술자격) 1급 한국생산성본부
+- 컴퓨터그래픽스운용기능사 한국산업인력공단
+- GTQi(그래픽기술자격 일러스트) 2급 한국생산성본부
+- 웹디자인기능사 한국산업인력공단
+- 정보처리기능사 한국산업인력공단
+- GTQ(그래픽기술자격) 2급 한국생산성본부
+- GTQi(그래픽기술자격 일러스트) 3급 한국생산성본부
+- 정보기술자격(ITQ) 아래한글 A등급 한국생산성본부
+- 컴퓨터활용능력 2급 대한상공회의소
+- 정보기술자격(ITQ) 한글엑셀(한셀) A등급 한국생산성본부
+
+  
 <!--os-->
 ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
