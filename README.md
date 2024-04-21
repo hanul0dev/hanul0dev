@@ -8,6 +8,8 @@
 - 고용노동부 주관 미래내일일경험 프로젝트 팀장 💼
 - 한이음 ICT 멘토링 팀장 🚀
 
+---
+
 ### Certificate
 - 정보기술자격(ITQ) 인터넷 A등급 한국생산성본부
 - 정보기술자격(ITQ) 한글엑세스 A등급 한국생산성본부
@@ -23,13 +25,19 @@
 - 컴퓨터활용능력 2급 대한상공회의소
 - 정보기술자격(ITQ) 한글엑셀(한셀) A등급 한국생산성본부
 
+---
+
 ### Awards
 - 2024 고용노동부 미래혁신인재상
 - 2021 ITOP경진대회 과학기술정보통신부장관상
 - 2020 ITOP경진대회 한국생산성본부회장상
 
+---
+
 ### Conference Papers
 - 2023 한국산학기술학회 스마트마을어장 모니터링을 위한 YOLOv8기반 객체탐지 성능 분석
+
+---
 
 ### OS & Programming
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
