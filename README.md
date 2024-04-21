@@ -31,7 +31,7 @@
 
 ### Awards
 - 2024 고용노동부 미래혁신인재상
-- ###[2021 ITOP경진대회 과학기술정보통신부장관상](https://n.news.naver.com/mnews/article/030/0002985770)
+- [2021 ITOP경진대회 과학기술정보통신부장관상](https://n.news.naver.com/mnews/article/030/0002985770)
 - 2020 ITOP경진대회 한국생산성본부회장상
 
 ---
