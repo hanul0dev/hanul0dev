@@ -37,7 +37,7 @@
 ---
 
 ### Conference Papers
-- 2023 한국산학기술학회 스마트마을어장 모니터링을 위한 YOLOv8기반 객체탐지 성능 분석
+- [2023 한국산학기술학회 스마트마을어장 모니터링을 위한 YOLOv8기반 객체탐지 성능 분석](https://www.kais99.org/jkais/springNfall/autumn2023/poster/2023_autumn_087.pdf)
 
 ---
 
