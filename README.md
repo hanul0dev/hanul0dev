@@ -42,10 +42,8 @@
 ---
 
 ### OS
-![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
@@ -76,6 +74,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![VNC](https://img.shields.io/badge/VNC-FFBF00?style=for-the-badge&logo=realvnc&logoColor=white)
 ![PuTTY](https://img.shields.io/badge/PuTTY-005CAB?style=for-the-badge&logo=putty&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
