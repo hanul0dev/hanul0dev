@@ -37,7 +37,7 @@
 ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanul0dev)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **hanul0dev/hanul0dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
