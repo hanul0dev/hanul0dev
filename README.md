@@ -79,7 +79,7 @@
 ---
 
 ### Workspace
-![Windows - LENOVO Thinkpad](https://img.shields.io/badge/Windows-LENOVO_Thinkpad-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows - LENOVO Thinkpad](https://img.shields.io/badge/thinkpad-%23EE2624.svg?&style=for-the-badge&logo=thinkpad&logoColor=white")
 
 ---
 
