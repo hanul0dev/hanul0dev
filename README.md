@@ -28,6 +28,9 @@
 - 2021 ITOP경진대회 과학기술정보통신부장관상
 - 2020 ITOP경진대회 한국생산성본부회장상
 
+### Conference Papers
+- 2023 한국산학기술학회 스마트마을어장 모니터링을 위한 YOLOv8기반 객체탐지 성능 분석
+
 ### OS & Programming
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
