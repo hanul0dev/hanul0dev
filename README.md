@@ -3,10 +3,10 @@
 ---
 
 ### Who am I?
-- 대학생 1인 개발자
-- 한국폴리텍대학 인공지능소프트웨어과 (2023. 3. 2025.02)
-- 고용노동부 주관 미래내일일경험 프로젝트 팀장
-- 한이음 ICT 멘토링 팀장
+- 대학생 1인 개발자 🎓
+- 한국폴리텍대학 인공지능소프트웨어과 (2023. 3. 2025.02) 📚
+- 고용노동부 주관 미래내일일경험 프로젝트 팀장 💼
+- 한이음 ICT 멘토링 팀장 🚀
 
 ### Certificate
 - 정보기술자격(ITQ) 인터넷 A등급 한국생산성본부
@@ -22,7 +22,7 @@
 - 정보기술자격(ITQ) 아래한글 A등급 한국생산성본부
 - 컴퓨터활용능력 2급 대한상공회의소
 - 정보기술자격(ITQ) 한글엑셀(한셀) A등급 한국생산성본부
-  
+
 ### OS & Programming
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -39,8 +39,22 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jetson](https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Edge Device](https://img.shields.io/badge/Edge_Device-007ACC?style=for-the-badge&logo=google&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 
 ### Workspace
 ![Windows - LENOVO Thinkpad](https://img.shields.io/badge/Windows-LENOVO_Thinkpad-0078D6?style=for-the-badge&logo=windows&logoColor=white)
