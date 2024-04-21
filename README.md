@@ -74,6 +74,8 @@
 ![CNN](https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Edge Device](https://img.shields.io/badge/Edge_Device-007ACC?style=for-the-badge&logo=google&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![VNC](https://img.shields.io/badge/VNC-FFBF00?style=for-the-badge&logo=realvnc&logoColor=white)
+![PuTTY](https://img.shields.io/badge/PuTTY-005CAB?style=for-the-badge&logo=putty&logoColor=white)
 
 ---
 
