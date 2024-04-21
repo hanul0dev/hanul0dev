@@ -48,9 +48,6 @@
 ![](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 <!--Work space-->
-![](https://img.shields.io/badge/NVIDIA-GTX4080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![](https://img.shields.io/badge/Intel-Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-
 ![](https://img.shields.io/badge/Windows-LENOVO_Thinkpad-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
