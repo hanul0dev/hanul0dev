@@ -23,6 +23,11 @@
 - 컴퓨터활용능력 2급 대한상공회의소
 - 정보기술자격(ITQ) 한글엑셀(한셀) A등급 한국생산성본부
 
+### Awards
+- 2024 고용노동부 미래혁신인재상
+- 2021 ITOP경진대회 과학기술정보통신부장관상
+- 2020 ITOP경진대회 한국생산성본부회장상
+
 ### OS & Programming
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
