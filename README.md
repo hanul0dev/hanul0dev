@@ -46,6 +46,8 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white)
 
+---
+
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -72,13 +74,16 @@
 ![Edge Device](https://img.shields.io/badge/Edge_Device-007ACC?style=for-the-badge&logo=google&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+---
 
 ### Workspace
 ![Windows - LENOVO Thinkpad](https://img.shields.io/badge/Windows-LENOVO_Thinkpad-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
+---
 ### IDEs
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanul0dev)](https://github.com/anuraghazra/github-readme-stats)
 [![hanul's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanul0dev)](https://github.com/anuraghazra/github-readme-stats)
