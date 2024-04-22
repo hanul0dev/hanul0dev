@@ -1,6 +1,6 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=e8655e&height=225&section=header&text=Hanul_dev&fontColor=FFFFFF&fontAlign=22&fontAlignY=35&desc=Vision%20AI%20맛집&descSize=20&descAlign=18&descAlignY=58&animation=twinkling)](https://github.com/hanul0dev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanul0dev)](https://github.com/anuraghazra/github-readme-stats)
-[![hanul's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanul0dev)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanul0dev&bg_color=00000000)
+[![hanul's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanul0dev)]
 
 ---
 
