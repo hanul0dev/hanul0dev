@@ -79,6 +79,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanul0dev&bg_color=00000000)
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=hanul0dev&count_private=true&show_icons=true&theme=dark)](https://github.com/hanul0dev)  
-
+| <a href="https://github.com/hanul0dev/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> |<a href="https://github.com/hanul0dev/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
