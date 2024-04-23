@@ -1,6 +1,6 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=hanul_dev&section=footer&reversal=false&textBg=false&desc=vision%20Ai%20맛집&descAlign=74&fontColor=000000&fontSize=60&descAlignY=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=hanul_dev&section=footer&reversal=false&textBg=false&desc=vision%20Ai%20맛집&descAlign=74&fontColor=a5a5a5&fontSize=60&descAlignY=62)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanul0dev&bg_color=00000000)
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=hanul0dev&count_private=true&show_icons=true&theme=dark)](https://github.com/hanul0dev)  
 </div>
