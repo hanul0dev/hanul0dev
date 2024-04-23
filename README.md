@@ -42,7 +42,7 @@
 - [2023 한국산학기술학회 스마트마을어장 모니터링을 위한 YOLOv8기반 객체탐지 성능 분석](https://www.kais99.org/jkais/springNfall/autumn2023/poster/2023_autumn_087.pdf)
 
 ---
-
+<div align="center">
 ### OS
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -88,5 +88,5 @@
 ### IDEs
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
+</div>
 
