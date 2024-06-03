@@ -56,14 +56,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)<br>
 
 ---
-
-### Workspace
-![Windows - LENOVO Thinkpad](https://img.shields.io/badge/thinkpad-%23EE2624.svg?&style=for-the-badge&logo=thinkpad&logoColor=white")
-
----
-
-### IDEs
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 </div>
 
 | <a href="https://github.com/hanul0dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hanul0dev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> |<a href="https://github.com/hanul0dev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanul0dev&layout=compact&theme=buefy&hide_border=true" /></a> |
