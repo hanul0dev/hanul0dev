@@ -25,10 +25,10 @@
 - 정보기술자격(ITQ) 한글파워포인트(한쇼) A등급 한국생산성본부
 - 정보기술자격(ITQ) 아래한글 A등급 한국생산성본부
 - 정보기술자격(ITQ) 한글엑셀(한셀) A등급 한국생산성본부
-- GTQ(그래픽기술자격) 1급 한국생산성본부
-- GTQ(그래픽기술자격) 2급 한국생산성본부
-- GTQi(그래픽기술자격 일러스트) 2급 한국생산성본부
-- GTQi(그래픽기술자격 일러스트) 3급 한국생산성본부
+- 그래픽기술자격(GTQ) 1급 한국생산성본부
+- 그래픽기술자격(GTQ) 2급 한국생산성본부
+- 그래픽기술자격 일러스트(GTQi) 2급 한국생산성본부
+- 그래픽기술자격 일러스트(GTQi) 3급 한국생산성본부
 
 
 ---
@@ -48,11 +48,10 @@
   
 ### Tech Stack
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![WSL](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white)<br>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)<br>
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Jetson](https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Edge Device](https://img.shields.io/badge/Edge_Device-007ACC?style=for-the-badge&logo=google&logoColor=white)<br>
+![Jetson](https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Edge Device](https://img.shields.io/badge/Edge_Device-007ACC?style=for-the-badge&logo=google&logoColor=white)<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)<br>
-![VNC](https://img.shields.io/badge/VNC-FFBF00?style=for-the-badge&logo=realvnc&logoColor=white) ![PuTTY](https://img.shields.io/badge/PuTTY-005CAB?style=for-the-badge&logo=putty&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)<br>
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)<br>
 
