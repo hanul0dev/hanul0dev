@@ -44,7 +44,7 @@
 - [2023 한국산학기술학회 스마트마을어장 모니터링을 위한 YOLOv8기반 객체탐지 성능 분석](https://www.kais99.org/jkais/springNfall/autumn2023/poster/2023_autumn_087.pdf)
 
 ---
-<div align="center">
+
   
 ### Tech Stack
 
@@ -56,7 +56,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)<br>
 
 ---
-</div>
+
 
 | <a href="https://github.com/hanul0dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hanul0dev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> |<a href="https://github.com/hanul0dev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanul0dev&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
