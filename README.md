@@ -57,5 +57,10 @@
 ---
 
 
-| <a href="https://github.com/hanul0dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hanul0dev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> |<a href="https://github.com/hanul0dev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanul0dev&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<div align="center">
+  <a href="https://github.com/hanul0dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanul0dev&layout=compact&theme=buefy&hide_border=true" />
+  </a>
+</div>
+
+
