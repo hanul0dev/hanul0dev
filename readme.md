@@ -1,6 +1,6 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=hanul_dev&section=footer&reversal=false&textBg=false&desc=vision%20Ai%20맛집&descAlign=74&fontColor=a5a5a5&fontSize=60&descAlignY=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=hanul_dev&section=footer&reversal=false&textBg=false&desc=vision%20AI%20맛집&descAlign=74&fontColor=a5a5a5&fontSize=60&descAlignY=62)
 </div>
 
 ---
